@@ -1,4 +1,5 @@
-ss Square that defines a square"""
+#!/usr/bin/python3
+"""class Square that defines a square"""
 
 
 class Square():
